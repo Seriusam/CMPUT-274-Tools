@@ -1,5 +1,5 @@
-This program helps you start the lectures faster then typing
-'''
-ipython notebook "Lecture File"
-'''
-in the terminal
+This program helps you start the lectures faster then typing in the terminal. I find it usefull and time saving.
+
+You need to save the lectures in the LECTURES folder. After that you can run the python program.
+
+Hope it helps
